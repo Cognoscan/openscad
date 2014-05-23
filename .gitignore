@@ -2,6 +2,7 @@
 *.dmg
 *~
 *.tar*
+*.swp
 Makefile
 objects
 .gdbinit
